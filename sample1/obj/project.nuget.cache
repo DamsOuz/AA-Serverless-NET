@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yv943hgBfc8bc2lwz/Da+Wgp/Y4Mb3l8tU4d7egWB3HrwqLxssGMIxVys3qtXGUuARbAVKwWR5L7cIalpAF8Uw==",
+  "success": true,
+  "projectFilePath": "/Users/damienouzillou/sample1/sample1.csproj",
+  "expectedPackageFiles": [
+    "/Users/damienouzillou/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/damienouzillou/.nuget/packages/sixlabors.imagesharp/3.1.7/sixlabors.imagesharp.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
